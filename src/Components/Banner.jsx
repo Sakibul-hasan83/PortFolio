@@ -40,7 +40,7 @@ const Banner = () => {
    
    
                                       <div>
-  <a href="/public/cv.pdf" download>
+  <a href="/cv.pdf" download>
     <button className='flex flex-row justify-start gap-2 items-center p-2 border-2 rounded-full'>
       Download CV <MdOutlineDownloadForOffline />
     </button>
